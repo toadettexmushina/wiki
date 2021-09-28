@@ -4,7 +4,7 @@ tags:
 - feature
 ---
 
-Though they are not related to the randomizer, the Ori speedrun community do have some rules regarding bind. If you are playing by yourself you can ignore them but when playing races, some organizator might want you to follow variants of these rules:
+Though they are not related to the randomizer, the Ori speedrun community in general has some rules regarding keybinds. If you're playing by yourself you can ignore them but when playing races, the organizator might want you to follow some variantion of these rules:
 * You can use third party software.
 * You can have a bind on every button, except for the scroll wheel.
 * Multibinds are allowed but macros are not (having multiple actions on the same button is allowed but every action has to resolve on the same frame).
