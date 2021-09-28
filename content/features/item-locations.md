@@ -14,7 +14,7 @@ There are 377 item locations in the entire game. Depending on your [seed generat
 * 27 items from shops (including Lupo’s maps)
 * 36 items from quests (from both quests’ rewards and items related to quest)
 * 148 Spirit Light Containers (EX or experience orbs)
-* 5 Shard Slot (from Combat Shrines)
+* 5 Shard Slots (from Combat Shrines)
 * 5 Wisps (Voice, Memory, Eyes, Strength, Seir)
 
-In-game, you will be able to open your map to see the position of these pickups. Depending on your settings, you might also have access to a new logic filter which will show all pickups you currently have access to with your skill set.
+All pickups are visible on the map from the start of the game. Additionally, an In-Logic filter has been added to the map so you can quickly tell which items the logic expects that you can reach given your current selected [paths](/seedgen/paths), skillset, and resources.
